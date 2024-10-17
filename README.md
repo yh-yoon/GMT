@@ -1,4 +1,4 @@
-## [ECCV 2024] GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer <br><sub>Official PyTorch Implementation of GMT. </sub
+## [ECCV 2024] GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer <br><sub>Official PyTorch Implementation of GMT. </sub>
 
 [Paper](https://arxiv.org/abs/2410.00672)
 
