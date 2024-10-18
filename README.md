@@ -1,7 +1,10 @@
 ## [ECCV 2024] GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer <br><sub>Official PyTorch Implementation </sub>
 Youngho Yoon*, 
 [Hyun-Kurl Jang*](blue-531.github.io), 
+and
 Kuk-Jin Yoon
+
+(* denotes equal contribution.)
 
 [Paper](https://arxiv.org/abs/2410.00672)
 
